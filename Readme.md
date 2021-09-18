@@ -1,7 +1,7 @@
 # Github trends api  
 Unofficial Github Trending API  
 
-[![npm version](https://badge.fury.io/js/github-trends-api.svg)](https://badge.fury.io/js/github-trends-api)  ![](https://badgen.net/npm/dt/github-trends-api) ![](https://badgen.net/bundlephobia/min/github-trends-api)  
+[![npm version](https://badge.fury.io/js/github-trends-api.svg)](https://badge.fury.io/js/github-trends-api)  ![](https://badgen.net/npm/dt/github-trends-api) 
 
 ```
 npm i github-trends-api
